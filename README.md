@@ -1,4 +1,4 @@
-![header](<img width="1200" height="336" alt="image" src="https://github.com/user-attachments/assets/d5decd20-7557-48de-ba66-b99a330a9671" />
+![header](img width="1200" height="336" alt="image" src="https://github.com/user-attachments/assets/d5decd20-7557-48de-ba66-b99a330a9671" /
 )
 
 ## Hi there 👋
