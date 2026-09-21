@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=checkered&height=240&color=8B4513&section=header&reversal=false&text=%EC%98%81%EA%B1%B0%EB%A6%AC%EA%B1%B0%EB%A6%B0%EA%B1%B0%EB%A6%BC%EC%9D%80%EA%B8%B0%EB%A6%B0%EA%B1%B0%EB%A6%BC&textBg=false&fontColor=FFD700&fontSize=50&fontAlign=35&fontAlignY=27&animation=fadeIn&rotate=0&stroke=000000&strokeWidth=10&desc=%EC%83%88%EC%8B%B9+%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80+%EC%BD%94%EB%93%9C%EB%A1%9C+%EA%B1%B0%EB%A6%BC%EC%9D%84+%EA%B1%B0%EB%A6%AC%EB%8A%94+%EA%B2%85%EA%B0%84&descSize=20&descAlign=51&descAlignY=45)
+![header](<img width="1200" height="336" alt="image" src="https://github.com/user-attachments/assets/d5decd20-7557-48de-ba66-b99a330a9671" />
+)
 
 ## Hi there 👋
 
